@@ -1,2 +1,2 @@
 # git_demo
-git demo 
+Demo for GIT And GITHUB.
